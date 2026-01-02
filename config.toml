@@ -5,12 +5,12 @@ author = "Namtao Productions"
 theme = "linkita"
 
 compile_sass = true
-build_search_index = true
+build_search_index = false
 generate_sitemap = true
 generate_robots_txt = true
 default_language = "en"
 generate_feeds = true
-feed_filenames = ["atom.xml", "rss.xml", ]
+feed_filenames = ["atom.xml", "rss.xml"]
 
 [markdown]
 bottom_footnotes = true
@@ -85,4 +85,3 @@ fediverse_creator = { handle = "tris", domain = "namtao.com" }
 
 copyright = "&copy; $YEAR [Namtao Productions](https://www.namtao.com) &vert; [CC BY-SA 4.0]($LICENSE_URL)"
 license_url = "https://creativecommons.org/licenses/by-sa/4.0/deed"
-

@@ -36,10 +36,6 @@
           class="btn-home h-6 w-6 shrink-0 cursor-pointer text-[0] bg-center bg-no-repeat bg-cover [background-image:var(--icon-home)] dark:invert"
         ></button>
           {%- elif header_button == "theme_button" %}
-        <button type="button" title="{{ m_i18n::tr(key=`act_switch_color_scheme`, lk=g_lang_k, d=g_trans_d) }}" accesskey="$"
-          onclick="window.linkita.toggleDarkMode();" ondblclick="window.linkita.resetDarkMode();"
-          class="btn-dark ml-4 h-6 w-6 shrink-0 cursor-pointer text-[0] bg-center bg-no-repeat bg-cover dark:invert [background-image:var(--icon-theme-dark)] dark:[background-image:var(--icon-theme-light)]"
-        ></button>
           {%- elif header_button == "search_button" and config.build_search_index %}
         <button type="button" title="{{ m_i18n::tr(key=`act_search`, lk=g_lang_k, d=g_trans_d) }}" accesskey="/"
           onclick="window.linkita.toggleSearch();"
