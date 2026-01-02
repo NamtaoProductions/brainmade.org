@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>BrainMade</title>
+      <link>https://brainmade.org</link>
+      <description>When you see this logo on any artwork, whether painting, poetry, or prose, you know that it was made by a human just like you.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://brainmade.org/rss.xml" rel="self" type="application/rss+xml"/>
+      
+    </channel>
+</rss>
