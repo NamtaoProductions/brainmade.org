@@ -6,8 +6,11 @@ extra:
  cover:
     image: "logo.jpg"
 ---
-
-![A logo of a human with a seed germinating in their head, with the word 'Brainmade' next to it, along with the website brainmade.org underneath.](white-logo.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/white-logo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/black-logo.svg">
+  <img alt="Humanmade mark." src="/docs/black-logo.svg">
+</picture>
 
 ## When you see this logo on any artwork, whether painting, poetry, or prose, you know that it was made by a human just like you.
 
