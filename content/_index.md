@@ -73,7 +73,7 @@ Special thanks to everyone who workshopped the logo with me, especially super pa
 
 ## About Me
 
-I'm Tris, I'm a writer and producer of [fast, technical videos](http://noboilerplate.org/), and [audiofiction and music.](https://namtao.com/
+I'm Tris, I'm a writer and producer of [fast, technical videos](http://noboilerplate.org/), and [audiofiction and music.](https://namtao.com/)
 My first career was as a web developer, doing production on the side for 15 years, but in 2022 I accidentally became entirely self-employed thanks to the surprising success of my YouTube channel, No Boilerplate.
 
 At heart I'm still a software developer, I'll re-use 100 libraries to avoid writing 10 lines of code - standing on the shoulders of giants is the only way I know how I get around.
