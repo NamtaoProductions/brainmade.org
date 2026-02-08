@@ -16,8 +16,8 @@ feed_filenames = ["atom.xml", "rss.xml"]
 bottom_footnotes = true
 smart_punctuation = true
 render_emoji = true
-highlight_code = true
-highlight_theme = "visual-studio-dark"
+# highlight_code = true
+# highlight_theme = "visual-studio-dark"
 
 [extra.menus]
 menu_name = [
