@@ -48,6 +48,7 @@ I _like_ that you tried hard, that's part of the experience.
 
 ## Downloads
 
+> Please use these however you like, I release them to the public domain under [Creative Commons 0](https://creativecommons.org/public-domain/cc0/) licence.
 
 ### White
 
