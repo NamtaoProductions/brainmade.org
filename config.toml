@@ -83,5 +83,5 @@ fediverse_creator = { handle = "tris", domain = "namtao.com" }
 
 [extra.footer]
 
-copyright = "&copy; $YEAR [Namtao Productions](https://www.namtao.com) &vert; [CC BY-SA 4.0]($LICENSE_URL)"
-license_url = "https://creativecommons.org/licenses/by-sa/4.0/deed"
+copyright = "&copy; $YEAR [Namtao Productions](https://www.namtao.com) &vert; [CC0]($LICENSE_URL)"
+license_url = "https://creativecommons.org/publicdomain/zero/1.0/"
