@@ -9,7 +9,7 @@ extra:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/white-logo.svg">
   <source media="(prefers-color-scheme: light)" srcset="/black-logo.svg">
-  <img alt="Humanmade mark." src="/docs/black-logo.svg">
+  <img alt="Brain mark." src="/docs/black-logo.svg">
 </picture>
 
 ## When you see this logo on any artwork, whether painting, poetry, or prose, you know that it was made by a human just like you.
