@@ -33,11 +33,7 @@ I hope the following video will explain in detail for making this clear, but the
 
 ## About
 
-I don't need 100% human made, I perhaps need 90% human made. Three examples may make my thinking clearer:
-
-- Using, say, chatgpt as a rhyming dictionary feels fine, but writing whole verses of your poem doesn't.
-- Using DALL-E to start brainstorming with 100 generated views of birds sitting on telephone lines seems fine, but getting it to paint large sections of your artwork doesn't.
-- Asking a text generator to give you 10 happy-sounding synonyms for despair sparks joy in me, but asking it to write your anti-trancendentalist masterpiece does not.
+I don't need 100% human made, I perhaps need 90% human made.
 
 Using these tools to make more of the artwork you want is valid, but you're not a creator, you're still a consumer. I'm not sure exactly what 'too much AI' is, but just like your audience, I'll know it when I see it.
 
