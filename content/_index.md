@@ -12,12 +12,13 @@ extra:
   <img alt="Brain mark." src="/docs/black-logo.svg">
 </picture>
 
-## When you see this logo on any artwork, whether painting, poetry, or prose, you know that it was made by a human just like you.
+## When you see this logo on any artwork, whether painting, poetry, or prose, you know that it was made by a human just like you
 
 The Brainmade mark can be attached to any work made mostly by you or your friends, not generative tools like GPT. It's not anti-AI, it is a positive mark that celebrates human creation. It's not `AI = bad`, it's `human = good`.
 There's something transcendent and magical in knowing a human made the artwork I'm consuming, knowing they tried hard is part of the experience. It doesn't have to be 100% human made (what would that even MEAN these days?), perhaps 90% human made.
 
 Three examples of what this mark could apply to:
+
 1. Using, say, ChatGPT as a rhyming dictionary feels fine, but writing whole verses of your poem doesn't.
 2. Using DALL-E to start brainstorming with 100 generated views of birds sitting on telephone lines seems fine, but getting it to paint large sections of your artwork doesn't.
 3. Asking a text generator to give you 10 happy-sounding synonyms for despair sparks joy in me, but asking it to write your anti-transcendentalist masterpiece does not.
@@ -27,9 +28,7 @@ I hope the following video will explain in detail for making this clear, but the
 - **I don't hate AIs,**
 - **I love humans!**
 
-**[Watch my short video here, or read on. ![](video.png)](https://youtu.be/kul0z3OTmVM)** 
-
-
+**[Watch my short video here, or read on. ![](video.png)](https://youtu.be/kul0z3OTmVM)**
 
 ## About
 
@@ -52,18 +51,18 @@ I _like_ that you tried hard, that's part of the experience.
 
 ### White
 
-- [white-logo.png](white-logo.png)
-- [white-logo.svg](white-logo.svg)
+- <a href="white-logo.png" download>white-logo.png</a>
+- <a href="white-logo.svg" download>white-logo.svg</a>
 
 ### Black
 
-- [black-logo.png](black-logo.png)
-- [black-logo.svg](black-logo.svg)
+- <a href="black-logo.png" download>black-logo.png</a>
+- <a href="black-logo.svg" download>black-logo.svg</a>
 
 ### 88x31 Buttons
 
-- [88x31-light.png](88x31-light.png)
-- [88x31-dark.png](88x31-dark.png)
+- <a href="88x31-light.png" download>88x31-light.png</a>
+- <a href="88x31-dark.png" download>88x31-dark.png</a>
 
 ## Credits
 
