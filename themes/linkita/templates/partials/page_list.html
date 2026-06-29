@@ -52,9 +52,6 @@
   <div class="my-1 truncate">
     <blockquote>{{ page.description }}</blockquote>
   </div>
-  <div class="my-1 truncate">
-    {{ page.relative_path}}
-  </div>
   {%- else %}
   <div class="my-1 truncate"></div>
   {%- endif %}
@@ -62,7 +59,7 @@
   {% include "partials/page_info.html" %}
 
   {#- {% if use_summary %}#continue-reading{% endif %} #}
-  <a class="absolute inset-0 text-[0]" href="{{ page.extra.link }}">{{ page.title }}</a>
+  <a class="absolute inset-0 text-[0]" href="{{ m_url::rel(there=page.permalink, here=g_here, base=g_base) }}">{{ page.title }}</a>
 
 </section>
 {%- endfor %}

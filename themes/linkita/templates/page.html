@@ -28,13 +28,14 @@
   {%- set page_toc = true %}
   {% include "partials/toc.html" %}
   <!-- Content -->
-
+  <section><a href="{{ page.extra.link | safe }}">{{ page.extra.link | safe }}</a></section>
+  <h4>Description</h4>
+  <section><blockquote>{{ page.description | safe }}</blockquote></section>
+  <h4>Statement</h4>
+  <section><blockquote>{{ page.extra.statement | safe }}</blockquote></section>
   {% for author in page.authors %}
     <div>{{ author | safe }}</div>
   {% endfor %}
-  <section><blockquote>{{ page.description | safe }}</blockquote></section>
-  <section><a href="{{ page.extra.link | safe }}">Link</a></section>
-  <hr />
   {% include "partials/post_taxonomies.html" %}
   {%- if page.lower or page.higher %}
   {% include "partials/post_navigation.html" %}
