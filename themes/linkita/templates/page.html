@@ -40,10 +40,6 @@
   {%- if page.lower or page.higher %}
   {% include "partials/post_navigation.html" %}
   {%- endif %}
-  <h3 id="discussion">Discussion</h3>
-  {%- if page.extra.comment | default(value=config.extra.comment) %}
-  {% include "partials/comment.html" %}
-  {%- endif %}
   <!-- Begin Page End inject -->
   {% include "injects/page_end.html" ignore missing %}
   <!-- End Page End inject -->
