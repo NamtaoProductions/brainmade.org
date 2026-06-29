@@ -26,11 +26,6 @@
 
   <h2 class="!my-0 pb-1 font-bold !leading-none">{{ page.title }}</h2>
   <p>{{ page.extra.link }}</p>
-  <div class="not-prose my-1 truncate">
-    {% for author in page.authors %}
-      <div>{{ author | safe }}</div>
-    {% endfor %}
-  </div>
   {%- if not page.summary %}
     {%- set use_summary = false %}
   {%- elif not page.description %}
@@ -47,10 +42,6 @@
   {%- if use_summary %}
   <div class="not-prose my-1">
     {{ page.summary | striptags | trim_end | trim_end_matches(pat=`&hellip;`) | trim_end_matches(pat=`.`) | safe }}{{ hellip | safe }}
-  </div>
-  {%- elif page.description %}
-  <div class="my-1 truncate">
-    <blockquote>{{ page.description }}</blockquote>
   </div>
   {%- else %}
   <div class="my-1 truncate"></div>
