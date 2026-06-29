@@ -25,6 +25,12 @@
   {%- endif %}
 
   <h2 class="!my-0 pb-1 font-bold !leading-none">{{ page.title }}</h2>
+  <p>{{ page.extra.link }}</p>
+  <div class="not-prose my-1 truncate">
+    {% for author in page.authors %}
+      <div>{{ author | safe }}</div>
+    {% endfor %}
+  </div>
   {%- if not page.summary %}
     {%- set use_summary = false %}
   {%- elif not page.description %}
@@ -43,8 +49,11 @@
     {{ page.summary | striptags | trim_end | trim_end_matches(pat=`&hellip;`) | trim_end_matches(pat=`.`) | safe }}{{ hellip | safe }}
   </div>
   {%- elif page.description %}
-  <div class="not-prose my-1 truncate">
-    <p>{{ page.description }}</p>
+  <div class="my-1 truncate">
+    <blockquote>{{ page.description }}</blockquote>
+  </div>
+  <div class="my-1 truncate">
+    {{ page.relative_path}}
   </div>
   {%- else %}
   <div class="my-1 truncate"></div>
@@ -53,7 +62,8 @@
   {% include "partials/page_info.html" %}
 
   {#- {% if use_summary %}#continue-reading{% endif %} #}
-  <a class="absolute inset-0 text-[0]" href="{{ m_url::rel(there=page.permalink, here=g_here, base=g_base) }}">{{ page.title }}</a>
+  <a class="absolute inset-0 text-[0]" href="{{ page.extra.link }}">{{ page.title }}</a>
+
 </section>
 {%- endfor %}
 

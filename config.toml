@@ -21,10 +21,11 @@ render_emoji = true
 
 [extra.menus]
 menu_name = [
-  { url = "#about", name = "About" },
-  { url = "#downloads", name = "Downloads" },
+  { url = "/#about", name = "About" },
+  { url = "/validated", name = "Validated Projects" },
+  { url = "/#downloads", name = "Downloads" },
   { url = "https://github.com/NamtaoProductions/brainmade.org", name = "Github" },
-  { url = "#credits", name = "Credits" },
+  { url = "/#credits", name = "Credits" },
 ]
 
 [[taxonomies]]
