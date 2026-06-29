@@ -24,8 +24,7 @@ menu_name = [
   { url = "/#about", name = "About" },
   { url = "/validated", name = "Validated Projects" },
   { url = "/#downloads", name = "Downloads" },
-  { url = "https://github.com/NamtaoProductions/brainmade.org", name = "Github" },
-  { url = "/#credits", name = "Credits" },
+  { url = "https://github.com/NamtaoProductions/brainmade.org/blob/main/CONTRIBUTING.md", name = "Submit Your Project" },
 ]
 
 [[taxonomies]]
