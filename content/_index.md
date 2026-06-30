@@ -17,12 +17,6 @@ extra:
 The Brainmade mark can be attached to any work made mostly by you or your friends, not generative tools like GPT. It's not anti-AI, it is a positive mark that celebrates human creation. It's not `AI = bad`, it's `human = good`.
 There's something transcendent and magical in knowing a human made the artwork I'm consuming, knowing they tried hard is part of the experience. It doesn't have to be 100% human made (what would that even MEAN these days?), perhaps 90% human made.
 
-Three examples of what this mark could apply to:
-
-1. Using, say, ChatGPT as a rhyming dictionary feels fine, but writing whole verses of your poem doesn't.
-2. Using DALL-E to start brainstorming with 100 generated views of birds sitting on telephone lines seems fine, but getting it to paint large sections of your artwork doesn't.
-3. Asking a text generator to give you 10 happy-sounding synonyms for despair sparks joy in me, but asking it to write your anti-transcendentalist masterpiece does not.
-
 I hope the following video will explain in detail for making this clear, but the tl;dr is:
 
 - **I don't hate AIs,**
