@@ -1,7 +1,5 @@
 If you have a project to add to the validated list, make a PR creating a new md file in `/content/validated` in this exact format:
 
-[Click here to create it](https://github.com/NamtaoProductions/brainmade.org/new/main/content/validated)
-
 
   ```md
 ---
@@ -16,3 +14,5 @@ extra:
 (body text inside the md file will be ignored, please don't use)
 
 ```
+
+Copy the above text and then [click here to create it](https://github.com/NamtaoProductions/brainmade.org/new/main/content/validated?filename=yourproject.md).
