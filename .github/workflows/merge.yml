@@ -1,0 +1,21 @@
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+name: Merge checks
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build Only
+        uses: shalzz/zola-deploy-action@v0.22.1
+        env:
+          BUILD_DIR: docs
+          BUILD_ONLY: true
+          BUILD_FLAGS: --drafts
