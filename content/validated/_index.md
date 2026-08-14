@@ -3,7 +3,7 @@ sort_by: "title"
 paginate_by: 10
 ---
 
-# Validated Projects
+# Community Validated Projects
 
 **These are projects that the brainmade community believes are using the mark in the spirit it was designed for.**
 
