@@ -2,7 +2,7 @@
 name: New project
 about: To submit your brainmade project for community consideration
 title: 'NEW: '
-labels: 'newproject'
+labels: 'new'
 assignees: '0atman'
 
 ---
