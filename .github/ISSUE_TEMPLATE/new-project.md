@@ -19,12 +19,12 @@ Example project is a...
 
 <http://example.com>
 
+## Statement
+<!-- the more detail you provide the quicker the better -->
+ This project is brainmade because...
+
 ## Author(s)
 <!-- names, profiles, or emails -->
 - Hank Clankplank
 - A.N Other <another@example.com>
 - Joan Doe <mastodon.social/@joan.doe>
-
-## Statement
-<!-- the more detail you provide the quicker the better -->
- This project is brainmade because...
