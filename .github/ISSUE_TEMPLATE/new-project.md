@@ -8,7 +8,6 @@ assignees: '0atman'
 ---
 
 <!-- you may ignore or delete comments like this -->
-<!-- If you are comfortable with making a PR directly, you may submit your project directly https://github.com/NamtaoProductions/brainmade.org/blob/main/CONTRIBUTING.md -->
 
 # Title
 <!-- the project name -->
@@ -31,3 +30,5 @@ assignees: '0atman'
 - Hank Clankplank
 - A.N Other <another@example.com>
 - Joan Doe <mastodon.social/@joan.doe>
+
+<!-- If you are comfortable with making a PR directly, you may submit your project directly https://github.com/NamtaoProductions/brainmade.org/blob/main/CONTRIBUTING.md -->
