@@ -6,7 +6,7 @@ Brainmade.org maintains a list of projects using the mark, validated by the comm
   <img alt="Brainmade mark." src="/docs/black-logo.svg">
 </picture>
 
-(Also try the shields.io badge version, [below](#badges))
+(Also try the shields.io badge versions, [below](#badges))
 
 ### Rationale
 
