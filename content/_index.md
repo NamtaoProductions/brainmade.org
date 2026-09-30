@@ -18,8 +18,8 @@ extra:
 </style>
 
 <picture class="not-prose">
-  <source media="(prefers-color-scheme: dark)" srcset="/white-logo-v2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/black-logo-v2.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="/white-logo-v2.png">
+  <source media="(prefers-color-scheme: light)" srcset="/black-logo-v2.png">
   <img alt="Brain mark." src="/docs/black-logo.svg">
 </picture>
 
