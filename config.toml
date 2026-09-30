@@ -21,9 +21,10 @@ render_emoji = true
 
 [extra.menus]
 menu_name = [
-  { url = "/validated", name = "Validated Projects" },
+  { url = "/validated", name = "Projects" },
   { url = "/#downloads", name = "Downloads" },
-  { url = "https://github.com/NamtaoProductions/brainmade.org/issues/new?template=new-project.md", name = "Submit your Project" },
+  { url = "https://github.com/NamtaoProductions/brainmade.org/issues/new?template=new-project.md", name = "Submit" },
+  { url = "https://noboilerplate.dashery.com/products/99603123-brainmade-logo-t-shirt", name = "Store" },
 ]
 
 [[taxonomies]]
