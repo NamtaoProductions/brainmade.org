@@ -91,19 +91,16 @@ I _like_ that you tried hard, that's part of the experience.
   </div>
 </div>
 
-## Credits
 
-- Logo based on "Human" by JunGSa from Noun Project
-- And "seed" by Adrian Syauqi from Noun Project
-
-Special thanks to everyone who workshopped the logo with me, especially super patron supporter Andrew Jackson. Andrew, I should be paying YOU!
-
-## About Me
+## About The Creator
 
 I'm Tris, I'm a writer and producer of [fast, technical videos](http://noboilerplate.org/), and [audiofiction and music.](https://namtao.com/)
 My first career was as a web developer, doing production on the side for 15 years, but in 2022 I accidentally became entirely self-employed thanks to the surprising success of my YouTube channel, No Boilerplate.
 
-At heart I'm still a software developer, I'll re-use 100 libraries to avoid writing 10 lines of code - standing on the shoulders of giants is the only way I know how I get around.
-But I've looked for a way to mark my videos and stories as being made by humans, not AI, and I couldn't find one that works in exactly the way I want.
+## Credits
 
-So here we are!
+Thanks so much to these lovely people who have contributed to the project:
+
+- Delphine Blanchard for generously sharing her marketing expertiese and developing the Brainmade brand with me
+- Logo uses two componants from the Noun Project: "Human" by JunGSa, and "seed" by Adrian Syauqi
+- Special thanks to everyone who workshopped the logo with me, especially super patron supporter Andrew Jackson. Andrew, I should be paying YOU!
