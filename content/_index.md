@@ -6,6 +6,18 @@ extra:
  cover:
     image: "logo.jpg"
 ---
+
+<!--toc:start-->
+- [When you see this logo on any artwork, whether painting, poetry, or prose, you know that it was made by a human just like you](#when-you-see-this-logo-on-any-artwork-whether-painting-poetry-or-prose-you-know-that-it-was-made-by-a-human-just-like-you)
+- [About](#about)
+- [Downloads](#downloads)
+  - [Original, No Border](#original-no-border)
+  - [Shields.io](#shieldsio)
+  - [88x31 Buttons](#88x31-buttons)
+- [About The Creator](#about-the-creator)
+- [Credits](#credits)
+<!--toc:end-->
+
 <style>
  .row {
   display: flex;
@@ -101,6 +113,6 @@ My first career was as a web developer, doing production on the side for 15 year
 
 Thanks so much to these lovely people who have contributed to the project:
 
-- Delphine Blanchard for generously sharing her marketing expertiese and developing the Brainmade brand with me
-- Logo uses two componants from the Noun Project: "Human" by JunGSa, and "seed" by Adrian Syauqi
+- Delphine Blanchard for generously sharing her expertise and developing the Brainmade brand with me
+- Logo uses two components from the Noun Project: "Human" by JunGSa, and "seed" by Adrian Syauqi
 - Special thanks to everyone who workshopped the logo with me, especially super patron supporter Andrew Jackson. Andrew, I should be paying YOU!
