@@ -25,7 +25,7 @@ extra:
 
 ## When you see this logo on any artwork, whether painting, poetry, or prose, you know that it was made by a human just like you
 
-The Brainmade mark can be attached to any work made mostly by you or your friends, not generative tools like GPT. It's not anti-AI, it is a positive mark that celebrates human creation. It's not `AI = bad`, it's `human = good`.
+The Brainmade mark can be attached to any work made mostly by you or your friends, not generative tools like GPT. It's not anti-AI, it is a positive mark that celebrates homemade, human, creation. It's not `AI = bad`, it's `human = good`.
 There's something transcendent and magical in knowing a human made the artwork I'm consuming, knowing they tried hard is part of the experience. It doesn't have to be 100% human made (what would that even MEAN these days?), perhaps 90% human made.
 
 I hope the following video will explain in detail for making this clear, but the tl;dr is:
