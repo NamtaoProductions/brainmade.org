@@ -84,3 +84,10 @@ fediverse_creator = { handle = "tris", domain = "namtao.com" }
 
 copyright = "&copy; $YEAR [Namtao Productions](https://www.namtao.com) &vert; [CC0]($LICENSE_URL)"
 license_url = "https://creativecommons.org/publicdomain/zero/1.0/"
+
+[extra.style]
+bg_color = "#f4f4f5"
+bg_dark_color = "#151331"
+header_blur = false
+header_color = "#e4e4e7"
+header_dark_color = "#1e1c4a"
