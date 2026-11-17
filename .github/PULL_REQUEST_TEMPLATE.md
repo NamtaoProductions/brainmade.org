@@ -12,7 +12,7 @@ description: "A description of your project"
 authors: ["your name or handle"]
 extra:
     link: "http://example.com"
-    statement: "This project is brainmaid because..."
+    statement: "This project is brainmade because..."
 ---
 
 (body text inside the md file will be ignored, please don't use)
